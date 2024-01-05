@@ -1,7 +1,7 @@
 # Water Temperature Forecasting for Several TVA Sites
 
 
-This project was completed by Patrick Schulkers and I for the Data Science for Engineers course during my time at the University of Tennessee. The code will be uploaded soon.  
+This project was completed by Patrick Schulkers and I for the Data Science for Engineers course during my time at the University of Tennessee.
 
 Abstract – *Having access to early and reliable forecasts for water temperature is critical to
 plant performance for the Tennessee Valley Authority (TVA). 55% of TVA’s power portfolio is
